@@ -1,8 +1,8 @@
-# kevinterrobang:discourse-api
+# ntrrobng:discourse-api
 This package adds the [Discourse](http://www.discourse.org) [NPM API library](https://github.com/dhyasama/discourse-api) to your Meteor application.
 
 ## Installation
-Run `meteor add kevinterrobang:discourse-api` and configure the settings.json file accordingly:
+Run `meteor add ntrrobng:discourse-api` and configure the settings.json file accordingly:
 ```
 {
   "public" : {

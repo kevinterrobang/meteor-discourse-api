@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'kevinterrobang:discourse-api',
+  name: 'ntrrobng:discourse-api',
   version: '0.0.1',
   summary: 'Discourse API library for Meteor',
-  git: 'https://github.com/kevinterrobang/meteor-discourse-api.git'
+  git: 'https://github.com/ntrrobng/meteor-discourse-api.git'
 });
 
 Npm.depends({
